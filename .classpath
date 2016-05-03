@@ -8,8 +8,13 @@
   <classpathentry kind="output" path="target/classes"/>
   <classpathentry kind="con" path="MULE_RUNTIME"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-broker/5.13.3/activemq-broker-5.13.3.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-client/5.13.3/activemq-client-5.13.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-kahadb-store/5.13.3/activemq-kahadb-store-5.13.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-openwire-legacy/5.13.3/activemq-openwire-legacy-5.13.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/protobuf/activemq-protobuf/1.1/activemq-protobuf-1.1.jar"/>
   <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-net/commons-net/3.3/commons-net-3.3.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/ftpserver/ftplet-api/1.0.6/ftplet-api-1.0.6.jar" sourcepath="M2_REPO/org/apache/ftpserver/ftplet-api/1.0.6/ftplet-api-1.0.6-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/ftpserver/ftpserver-core/1.0.6/ftpserver-core-1.0.6.jar" sourcepath="M2_REPO/org/apache/ftpserver/ftpserver-core/1.0.6/ftpserver-core-1.0.6-sources.jar"/>
